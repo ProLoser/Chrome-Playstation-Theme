@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "name": "Playstation Theme",
+  "theme": {
+    "images" : {
+      "theme_ntp_background":"wallpaper.png"
+    },
+    "colors" : {
+      "frame" : [23,	62,	135	],
+      "toolbar" : [34,	146,	223],
+      "ntp_text" : [255, 255, 255],
+      "ntp_link" : [0, 120, 200],
+      "ntp_section" : [255,255,255],
+      "ntp_background":[109, 110, 112],
+      "tab_text":[255, 255, 255],
+      "tab_background_text":[0, 0, 0],
+      "button_background" : [166, 168, 170],
+      "bookmark_text":[255,255,255]
+    },
+    "tints" : {
+      "buttons" : [0, 0, 0],
+      "tabs": [0, 0, 0]
+    },
+    "properties" : {
+      "ntp_background_alignment" : "stretch"
+    }
+  }
+}

@@ -2,7 +2,6 @@
 Simple Playstation theme for Google Chrome
 
 # Installation
-
 0. Clone / download and unzip repo
 1. Go to the Google Chrome Extensions page
 2. Check the 'Developer Mode' box
@@ -10,6 +9,7 @@ Simple Playstation theme for Google Chrome
 4. Select the theme folder
 
 # Customization
+[Official Documentation](https://developer.chrome.com/extensions/themes)
 
 Feel free to play with the `manifest.json` to tweak the theme as you see fit. I'm not 100% sure what all the fields do.
 

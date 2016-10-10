@@ -12,7 +12,7 @@
       "ntp_text" : [255, 255, 255],
       "ntp_link" : [0, 120, 200],
       "ntp_section" : [255,255,255],
-      "ntp_background":[109, 110, 112],
+      "ntp_background":[34,	146,	223],
       "tab_text":[255, 255, 255],
       "tab_background_text":[0, 0, 0],
       "button_background" : [166, 168, 170],
@@ -23,7 +23,7 @@
       "tabs": [0, 0, 0]
     },
     "properties" : {
-      "ntp_background_alignment" : "stretch"
+      "ntp_background_alignment" : "stretch bottom"
     }
   }
 }

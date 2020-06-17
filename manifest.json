@@ -3,6 +3,9 @@
   "manifest_version": 2,
   "name": "Playstation 5 Theme",
   "description": "For PlayStation 5 I'm releasing this unofficial theme I developed while working at Sony for my work browser :D",
+  "icons": {
+   "128": "icon.png"
+  },
   "theme": {
     "images" : {
       "theme_ntp_background":"wallpaper.png"

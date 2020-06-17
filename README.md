@@ -1,5 +1,5 @@
 # Chrome-Playstation-Theme
-Simple Playstation theme for Google Chrome
+In cellebration of PlayStation 5, I'm releasing this unofficial theme I developed while working at Sony to help identify my work browser from my personal one :D
 
 # Installation
 0. Clone / download and unzip repo

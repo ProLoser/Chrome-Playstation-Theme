@@ -1,7 +1,8 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "manifest_version": 2,
-  "name": "Playstation Theme",
+  "name": "Playstation 5 Theme",
+  "description": "In cellebration of PlayStation 5, I'm releasing this unofficial theme I developed while working at Sony to help identify my work browser from my personal one :D",
   "theme": {
     "images" : {
       "theme_ntp_background":"wallpaper.png"

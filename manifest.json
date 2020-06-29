@@ -17,10 +17,12 @@
       "ntp_link" : [0, 120, 200],
       "ntp_section" : [255,255,255],
       "ntp_background":[34,	146,	223],
-      "tab_text":[0, 0, 0],
-      "tab_background_text":[0, 0, 0],
+      "tab_text":[255, 255, 255],
+      "tab_background_text":[34,	146,	223],
+      "tab_background_text_inactive":[0, 0, 0],
       "button_background" : [166, 168, 170],
-      "bookmark_text":[255,255,255]
+      "bookmark_text":[255,255,255],
+      "tab_background_text_incognito": [34,	146,	223]
     },
     "tints" : {
       "buttons" : [0, 0, 0],

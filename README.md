@@ -10,8 +10,11 @@ In cellebration of PlayStation 5, I'm releasing this unofficial theme I develope
 
 # Customization
 [Official Documentation](https://developer.chrome.com/extensions/themes)
+[Reference API](https://source.chromium.org/chromium/chromium/src/+/master:chrome/browser/themes/browser_theme_pack.cc;l=218-247?q=file:chrome%2Fbrowser%2Fthemes%20symbol:kTintTable$&ss=chromium&originalUrl=https:%2F%2Fcs.chromium.org%2Fsearch%2F)
 
 Feel free to play with the `manifest.json` to tweak the theme as you see fit. I'm not 100% sure what all the fields do.
 
-One thing to note is that `ntp` stands for `New Tab Page`, which is the screen you're greeted with when you open a new page.
-It's a little annoying customizing the manifest because the documentation around it is sparse and possibly out of date.
+## Notes:
+- `ntp` stands for `New Tab Page`, which is the screen you're greeted with when you open a new page.
+- `inactive` means when the window is not in focus
+
